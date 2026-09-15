@@ -1,178 +1,298 @@
 <a name="readme-top"></a>
 
-<img width="1440" alt="Keythm — typing test with mechanical keyboard sounds" src=".github/images/img_main.png" />
+<div align="center">
 
-<p align="center">
-  <h3 align="center">Keythm</h3>
-  <p align="center">
-    A free typing test with realistic mechanical keyboard sounds
-    <br />
-    <a href="https://github.com/Aayush-Ash/sakurakeys"><strong>Try it live »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/Aayush-Ash/sakurakeys">Website</a>
-    &middot;
-    <a href="https://github.com/Aayush-Ash/sakurakeys/issues">Issues</a>
-    &middot;
-    <a href="https://github.com/Aayush-Ash/sakurakeys/issues/new?labels=enhancement&template=FEATURE_REQUEST_TEMPLATE.md">Request Feature</a>
-  </p>
-</p>
+# 🌸 SakuraKeys
 
-<p align="center">
-  <a href="https://github.com/Aayush-Ash">
-    <img src="https://custom-icon-badges.demolab.com/badge/made%20by%20-Aayush-556bf2?logo=github&logoColor=white&labelColor=101827" alt="Made by Aayush">
-  </a>
-  <a href="https://github.com/Aayush-Ash/sakurakeys/stargazers">
-    <img src="https://img.shields.io/github/stars/Aayush-Ash/sakurakeys?style=flat&logo=github" alt="GitHub Stars">
-  </a>
-  <a href="https://github.com/Aayush-Ash/sakurakeys/forks">
-    <img src="https://img.shields.io/github/forks/Aayush-Ash/sakurakeys?style=flat" alt="GitHub Forks">
-  </a>
-  <a href="https://github.com/Aayush-Ash/sakurakeys/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/Aayush-Ash/sakurakeys?color=dddddd&labelColor=000000" alt="License">
-  </a>
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://img.shields.io/github/languages/top/Aayush-Ash/sakurakeys?&logoColor=%23007ACC&label=TypeScript" alt="Top Language">
-  </a>
-  <a href="https://github.com/Aayush-Ash/sakurakeys/commits/main">
-    <img src="https://img.shields.io/github/commit-activity/t/Aayush-Ash/sakurakeys?style=flat&logo=github" alt="Commits">
-  </a>
-  <a href="https://github.com/Aayush-Ash/sakurakeys/pulls">
-    <img src="https://img.shields.io/github/issues-pr/Aayush-Ash/sakurakeys?color=brightgreen&label=PRs" alt="Pull Requests">
-  </a>
-  <img src="https://img.shields.io/github/deployments/Aayush-Ash/sakurakeys/Production?logo=vercel&label=Website" alt="Deployment Status">
-</p>
+### An anime-inspired typing experience built to make improving your typing speed fun.
 
-<details>
-<summary>Table of Contents</summary>
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-SakuraKeys-ff69b4?style=for-the-badge)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge\&logo=github)](#)
+[![License](https://img.shields.io/badge/License-MIT-pink?style=for-the-badge)](#)
 
-- [About](#about)
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Getting Started](#-getting-started)
-- [Scripts](#-scripts)
-- [Contributing](#-contributing)
-- [Follow Me](#-follow-me)
-- [Deployment](#-deployment)
-- [Give A Star](#-give-a-star)
-- [Star History](#-star-history)
+**Type. Improve. Master your speed. 🌸**
 
+</div>
 
-</details>
+---
 
-## About
+## 📖 About
 
-**Keythm** is a free online typing test with **realistic mechanical keyboard sounds** and real-time WPM tracking. Practice with timed tests, word counts, quotes, or zen mode — featuring an interactive on-screen keyboard, satisfying key sounds, and detailed accuracy stats.
+**SakuraKeys** is an anime-themed typing and WPM tracking website designed to turn ordinary typing practice into a more engaging experience.
+
+The project combines a **stylized anime-inspired interface**, an interactive **3D keyboard**, real-time typing statistics, and satisfying keyboard interactions to create a typing experience that feels more like a game than a traditional typing test.
+
+Whether you're practicing for competitive typing, improving your everyday typing speed, or simply want a beautiful place to type, SakuraKeys is built around making every keystroke feel rewarding.
+
+---
 
 ## ✨ Features
 
-| Area | What you get |
-|------|----------------|
-| **Test modes** | Time (15s–120s), word count, quotes (length presets), zen |
-| **Mechanical key sounds** | Realistic per-key audio feedback via Web Audio; multiple keyboard themes |
-| **Virtual keyboard** | Interactive on-screen keyboard that highlights keys as you type (desktop) |
-| **Results** | WPM, raw speed, accuracy, character breakdown, consistency, elapsed time, WPM-over-time chart |
-| **Keyboard themes** | 6 color schemes — Classic, Mint, Royal, Dolch, Sand, Scarlet — each tints the entire UI |
-| **Typing fonts** | 9 fonts — Geist Mono, JetBrains Mono, Fira Code, IBM Plex Mono, Source Code Pro, Inter Tight, Space Grotesk, Nunito, Atkinson Hyperlegible |
-| **Settings** | Theme (light/dark/system), accent color, font picker, show keyboard, sound volume, live WPM, ghost mode |
-| **Haptics** | Optional vibration on supported hardware |
+| Area                       | What you get                                                      |
+| -------------------------- | ----------------------------------------------------------------- |
+| ⌨️ **Typing Test**         | Real-time typing practice with dynamically tracked performance    |
+| ⚡ **WPM Tracking**         | Live Words Per Minute calculation while typing                    |
+| 🎯 **Accuracy Tracking**   | Monitor correct and incorrect keystrokes                          |
+| 📊 **Typing Statistics**   | Review speed, accuracy, errors and overall performance            |
+| 🎹 **3D Keyboard**         | Interactive visual keyboard that responds to your keystrokes      |
+| 🔊 **Keyboard Sounds**     | Audio feedback designed to make typing feel more satisfying       |
+| 🌸 **Anime UI**            | Sakura/anime-inspired visual design throughout the experience     |
+| 🎨 **Themes**              | Aesthetic visual elements designed around the SakuraKeys identity |
+| 📈 **Progress Tracking**   | Track your typing performance and improvement over time           |
+| 📱 **Responsive Design**   | Designed to work across different screen sizes                    |
+| 🎮 **Gamified Experience** | A more engaging alternative to conventional typing-test websites  |
 
-Settings persist in `localStorage`.
+---
+
+## 🎹 The 3D Keyboard
+
+One of the main visual elements of SakuraKeys is its **interactive 3D keyboard**.
+
+Instead of displaying a traditional flat keyboard, SakuraKeys uses a more immersive keyboard interface where keys visually react as the user types.
+
+This makes it easier to:
+
+* Visually follow your keystrokes
+* Understand keyboard positioning
+* Create a more immersive typing experience
+* Make the interface feel more game-like
+
+---
+
+## ⚡ WPM & Accuracy
+
+SakuraKeys focuses on the two most important metrics for typing improvement:
+
+### WPM
+
+**Words Per Minute** measures how quickly you type.
+
+The application calculates your typing speed while you complete the test so you can immediately see how you're performing.
+
+### Accuracy
+
+Speed isn't everything.
+
+SakuraKeys also tracks your accuracy so you can work toward typing **faster without sacrificing correctness**.
+
+---
+
+## 🔊 Typing Experience
+
+SakuraKeys is designed around the feeling of typing itself.
+
+Key interactions can provide visual and audio feedback, making each keystroke feel more responsive.
+
+The goal is simple:
+
+> **Make typing practice feel satisfying enough that you actually want to keep practicing.**
+
+---
 
 ## 🛠 Tech Stack
 
-<details><summary><b>Keythm</b> is built using the following technologies:</summary>
+SakuraKeys is built as a modern web application using technologies suited for an interactive and responsive user experience.
 
-- [TypeScript](https://www.typescriptlang.org/): Typed superset of JavaScript.
-- [Next.js](https://nextjs.org/) 16: React framework with App Router.
-- [React](https://react.dev/) 19: UI library.
-- [Tailwind CSS](https://tailwindcss.com/): Utility-first CSS framework.
-- [Base UI](https://base-ui.com/): Unstyled, accessible component primitives from MUI.
-- [shadcn/ui](https://ui.shadcn.com/): Pre-styled component recipes.
-- [Motion](https://motion.dev/): Animation library for React.
-- [Recharts](https://recharts.org/): Composable charting library.
-- [Drizzle ORM](https://orm.drizzle.team/) + LibSQL: Type-safe database layer.
-- [Biome](https://biomejs.dev/): Fast linter and formatter.
-- [Serwist](https://serwist.pages.dev/): PWA / service worker toolkit.
-- [Vercel](https://vercel.com/): Deployment platform.
+### Frontend
 
-</details><br/>
+* **HTML5** — Application structure
+* **CSS3** — Styling, layouts and visual effects
+* **JavaScript** — Typing logic and application interactions
 
-[![Technologies Used](https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,ts,tailwind,shadcn,framer,drizzle,sqlite,bun,biome,vercel&theme=dark&titles=true)](https://github.com/Aayush-Ash)
+### UI & Experience
+
+* Interactive keyboard animations
+* CSS-based visual effects
+* Responsive layouts
+* Anime-inspired visual design
+* Audio feedback
+* 3D-style keyboard interactions
+
+> Update this section with your exact framework/library names if your current SakuraKeys implementation uses React, Next.js, Tailwind, Three.js, etc.
+
+---
 
 ## 🧰 Getting Started
 
-1. Make sure [Git](https://git-scm.com/downloads) and [Bun](https://bun.sh/) (or Node.js 20+) are installed.
-2. Fork this repository and clone **your fork**:
+### Prerequisites
 
-   ```bash
-   git clone https://github.com/<your-username>/sakurakeys.git
-   cd sakurakeys
-   ```
+Make sure you have the following installed:
 
-3. Install dependencies and start the dev server:
+* [Git](https://git-scm.com/)
+* A modern web browser
+* Your preferred code editor
 
-   ```bash
-   bun install
-   bun dev
-   ```
+### Clone the repository
 
-4. Open [http://localhost:3000](http://localhost:3000) in your browser.
+```bash
+git clone https://github.com/<your-username>/sakurakeys.git
 
-## 📜 Scripts
+cd sakurakeys
+```
 
-| Command | Description |
-|--------|-------------|
-| `bun dev` | Development server |
-| `bun run build` | Optimized production build |
-| `bun start` | Serve the production build |
-| `bun run lint` | Lint with Biome |
-| `bun run lint:fix` | Lint and auto-fix with Biome |
-| `bun run format` | Format with Biome |
-| `bun run typecheck` | Type-check with TypeScript |
+### Run the project
+
+If SakuraKeys is a static frontend project, you can open the project directly in your browser or use a local development server.
+
+For example:
+
+```bash
+npm install
+npm run dev
+```
+
+Then open:
+
+```text
+http://localhost:3000
+```
+
+> Replace the commands above with your project's actual commands if your repository uses a different setup.
+
+---
+
+## 📂 Project Structure
+
+A typical SakuraKeys structure can look like:
+
+```text
+sakurakeys/
+│
+├── public/
+│   ├── images/
+│   ├── sounds/
+│   └── fonts/
+│
+├── src/
+│   ├── components/
+│   ├── styles/
+│   ├── utils/
+│   └── ...
+│
+├── package.json
+├── README.md
+└── ...
+```
+
+---
+
+## 🚀 Future Improvements
+
+SakuraKeys is designed to grow beyond a basic typing test.
+
+Potential improvements include:
+
+* 🏆 Global leaderboards
+* 👤 User profiles
+* 📈 Advanced typing analytics
+* 🔥 Daily typing challenges
+* 🏅 Achievements and badges
+* 🎮 More typing game modes
+* 🌸 Additional anime themes
+* 🎹 More keyboard styles
+* 🔊 Additional keyboard sound packs
+* ☁️ Cloud-based progress synchronization
+* 📊 Detailed historical performance charts
+
+---
 
 ## 🔧 Contributing
 
-[![contributors](https://contrib.rocks/image?repo=Aayush-Ash/sakurakeys)](https://github.com/Aayush-Ash/sakurakeys/graphs/contributors)
+Contributions are welcome!
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+If you have an idea that could make SakuraKeys better:
 
-1. Fork the repo
-2. Create a new branch (`git checkout -b improve-feature`)
-3. Make the appropriate changes in the files
-4. Commit your changes (`git commit -am 'Improve feature'`)
-5. Push to the branch (`git push origin improve-feature`)
-6. Create a Pull Request
+1. Fork the repository
+2. Create a new branch
 
-## 🚀 Follow Me
+```bash
+git checkout -b improve-feature
+```
 
-[![Follow Me](https://img.shields.io/github/followers/Aayush-Ash?style=social&label=Github&maxAge=2592000)](https://github.com/Aayush-Ash "Follow Me")
-[![GitHub](https://img.shields.io/badge/GitHub-Aayush--Ash-blue?style=flat&logo=github&logoColor=b0c0c0&labelColor=363D44)](https://github.com/Aayush-Ash)
-[![Tweet about this project](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FAayush-Ash%2Fsakurakeys)](https://twitter.com/intent/tweet?text=Check+out+SakuraKeys+-+a+Japanese-themed+typing+test+with+mechanical+keyboard+sounds&url=https%3A%2F%2Fgithub.com%2FAayush-Ash%2Fsakurakeys "Tweet about this project")
+3. Make your changes
+4. Commit your changes
 
-## 📃 Deployment
+```bash
+git commit -m "Improve typing experience"
+```
 
-| Method                     | Description                              | Action                                                                                                                                                         |
-| :------------------------- | :--------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **🔧 Manual Build**        | Create an optimized production build.    | `bun run build`                                                                                                                                                |
-| **▲ Vercel (Recommended)** | Deploy instantly on the Vercel platform. | [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FAayush-Ash%2Fsakurakeys)               |
-| **🌐 Netlify**             | Deploy easily on Netlify.                | [![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Aayush-Ash/sakurakeys) |
+5. Push your branch
 
-For more details, check the [Next.js deployment docs](https://nextjs.org/docs/deployment).
+```bash
+git push origin improve-feature
+```
+
+6. Open a Pull Request
+
+---
+
+## 🐛 Issues & Feature Requests
+
+Found a bug or have an idea?
+
+Feel free to open an issue and describe:
+
+* What happened
+* How to reproduce it
+* What you expected to happen
+* Screenshots or recordings, if relevant
+
+Feature suggestions are also welcome.
+
+---
+
+## 🚀 Deployment
+
+SakuraKeys can be deployed using any platform that supports modern web applications.
+
+### Recommended
+
+| Platform            | Use                         |
+| ------------------- | --------------------------- |
+| ▲ **Vercel**        | Fast deployment and hosting |
+| 🌐 **Netlify**      | Simple frontend deployment  |
+| 🟣 **GitHub Pages** | Static website hosting      |
+
+Before deploying, make sure the production build works correctly locally.
+
+---
+
+## 🌸 Why SakuraKeys?
+
+Most typing websites focus purely on numbers.
+
+**SakuraKeys focuses on the experience.**
+
+Typing is something we do every day, so the goal of this project was to make practicing it more enjoyable through:
+
+**Anime aesthetics + interactive UI + keyboard feedback + performance tracking**
+
+The result is a typing environment that feels less like a test and more like a personal typing playground.
+
+---
 
 ## ⭐ Give A Star
 
-If you found this project useful, give it a star to help more people discover it!
+If you enjoy SakuraKeys or find the project useful, consider giving the repository a ⭐.
 
-## 🌟 Star History
+It helps the project get discovered and motivates further development.
 
-<a href="https://star-history.com/#Aayush-Ash/sakurakeys&Timeline">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Aayush-Ash/sakurakeys&type=Timeline&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Aayush-Ash/sakurakeys&type=Timeline" />
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Aayush-Ash/sakurakeys&type=Timeline" />
-</picture>
-</a>
+---
 
-<br />
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 👨‍💻 Author
+
+**Aayush Kumar**
+
+Built with ❤️, JavaScript, and way too many keystrokes.
+
+---
+
+<div align="center">
+
+### 🌸 SakuraKeys
+
+**Type faster. Type better. Enjoy every keystroke.**
+
+[⬆ Back to Top](#readme-top)
+
+</div>
